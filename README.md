@@ -1,6 +1,33 @@
 <h1 align="center">Hi 👋, I'm Danish Siddiqui</h1>
 <h3 align="center">A passionate backend & Android developer from Pakistan</h3>
 
+<h3 align="left">About Me:</h3>
+
+<p align="left">
+I'm a Computer Science student and developer passionate about building practical, scalable, and user-focused applications.
+</p>
+
+<p align="left">
+My primary area of expertise is <strong>Flutter and mobile application development</strong>. Alongside mobile development, I'm expanding my skills in <strong>backend and full-stack development</strong>, working with technologies such as <strong>Node.js, Express.js, Django, REST APIs, SQL Server, MySQL, MongoDB, and Firebase</strong>.
+</p>
+
+<p align="left">
+I've worked on a variety of projects, including e-commerce applications, entertainment and streaming-style apps, and systems involving authentication, APIs, databases, and real-world business logic.
+</p>
+
+<p align="left">
+What I enjoy most about development is understanding how different parts of an application connect — from designing user interfaces and building APIs to structuring databases and implementing authentication and core functionality.
+</p>
+
+<p align="left">
+I'm continuously improving my skills in <strong>mobile development, backend engineering, databases, and full-stack development</strong> while building projects that strengthen my technical and problem-solving abilities.
+</p>
+
+<p align="left">
+🚀 <strong>Tech I work with:</strong><br>
+Flutter • Dart • Node.js • Express.js • Django • REST APIs • React.js • JavaScript • SQL Server • MySQL • MongoDB • Firebase
+</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/danish-siddiqui-a96466410" target="_blank" rel="noreferrer">
